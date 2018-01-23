@@ -1,0 +1,21 @@
+{
+    "name": "gosha/yii2-social-share",
+    "description": "Social Share Widget",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension"],
+    "license": "GPL-3.0+",
+    "authors": [
+        {
+            "name": "Georgi Metreveli",
+            "email": "gosha260275@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "~2.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "gosha\\socialshare\\": ""
+        }
+    }
+}
